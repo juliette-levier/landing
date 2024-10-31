@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Serif)
+
+@import url("components/container.css");
+@import url("components/prototype.css");
+
+
+
+	body {
+		font-family: 'Roboto Serif', serif;
+		font-weight: <weight>;
+		font-style: normal;
+		font
+	}
+	h1, h2, h3{
+		font-family: 'Lora', serif;
+		font-weight: blod;
+	}
